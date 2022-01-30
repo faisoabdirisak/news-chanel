@@ -41,3 +41,4 @@ Now navigate to your browser at:localhost:5000
 5. Bootstrap
 
 ## Licence
+IT License    [MIT](https://choosealicense.com/licenses/mit/)
