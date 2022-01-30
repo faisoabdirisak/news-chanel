@@ -31,7 +31,11 @@ Now navigate to your browser at:localhost:5000
 
 ## Technologies Used
 *Python
+
 *Flask
+
 *HTML5
+
 *CSS
+
 *Bootstrap
