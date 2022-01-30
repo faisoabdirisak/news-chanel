@@ -39,3 +39,5 @@ Now navigate to your browser at:localhost:5000
 4. CSS
 
 5. Bootstrap
+
+## Licence
