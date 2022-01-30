@@ -18,3 +18,5 @@ This is a python flask application that uses an API to gather data and display i
 
 ## Screenshot
 <img src= "" width="800px" height="400px">
+
+### Installation/Requirements
