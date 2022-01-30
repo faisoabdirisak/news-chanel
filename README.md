@@ -20,3 +20,10 @@ This is a python flask application that uses an API to gather data and display i
 <img src= "" width="800px" height="400px">
 
 ### Installation/Requirements
+
+First clone the repo:$ git clone https://github.com/faisoabdirisak/news-chanel.git
+After cloning, navigate to the project:$ cd news-chanel
+Then install all the requirements through pip:$ pip install -r requirements.txt
+Make the file executable:$ chmod +x start.sh
+Run the application:$ ./start.sh
+Now navigate to your browser at:localhost:5000
