@@ -14,3 +14,5 @@
 + [Authors Info](#contacts)
 
 ## Description
+This is a python flask application that uses an API to gather data and display it on the webpage.
+
