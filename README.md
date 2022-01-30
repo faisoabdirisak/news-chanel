@@ -17,7 +17,7 @@
 This is a python flask application that uses an API to gather data and display it on the webpage.
 
 ## Screenshot
-<img src= "" width="800px" height="400px">
+<img src= "app/static/css/images/Screenshot from 2022-01-30 20-15-34.png" width="800px" height="400px">
 
 ### Installation/Requirements
 
