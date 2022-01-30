@@ -30,12 +30,12 @@ Now navigate to your browser at:localhost:5000
 
 
 ## Technologies Used
-*Python
+1. Python
 
-*Flask
+2. Flask
 
-*HTML5
+3. HTML5
 
-*CSS
+4. CSS
 
-*Bootstrap
+5. Bootstrap
