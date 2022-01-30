@@ -42,3 +42,5 @@ Now navigate to your browser at:localhost:5000
 
 ## Licence
 IT License    [MIT](https://choosealicense.com/licenses/mit/)
+
+Copyright (c) [2022] [Faiso Abdirisak]
