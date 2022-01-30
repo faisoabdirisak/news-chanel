@@ -27,3 +27,6 @@ Then install all the requirements through pip:$ pip install -r requirements.txt
 Make the file executable:$ chmod +x start.sh
 Run the application:$ ./start.sh
 Now navigate to your browser at:localhost:5000
+
+
+## Technologies Used
